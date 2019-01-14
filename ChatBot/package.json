@@ -1,0 +1,23 @@
+{
+  "name": "bot_man",
+  "version": "1.0.0",
+  "description": "Building my first Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ap6pack/NodeJS/ChatBot"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Adam Rhys Heaton",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^4.2.0",
+    "request": "^2.88.0",
+    "restify": "^7.5.0"
+  }
+}
