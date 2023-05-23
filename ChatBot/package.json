@@ -16,7 +16,7 @@
   "author": "Adam Rhys Heaton",
   "license": "MIT",
   "dependencies": {
-    "botbuilder": "^4.17.1",
+    "botbuilder": "^4.19.0",
     "request": "^2.88.0",
     "restify": "^7.5.0"
   }
