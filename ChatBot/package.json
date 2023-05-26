@@ -18,6 +18,6 @@
   "dependencies": {
     "botbuilder": "^4.19.3",
     "request": "^2.88.0",
-    "restify": "^7.5.0"
+    "restify": "^8.1.0"
   }
 }
